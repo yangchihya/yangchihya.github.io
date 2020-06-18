@@ -1,0 +1,247 @@
+@charset "utf-8";
+h1,h2,h3,h4,h5,h6,p,a,input,label,textarea,span,ul,li{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+.beige {
+    background-color: #F1ECD9;
+}
+
+.nav-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navbar-nav {
+    position: relative;
+
+
+
+
+}
+
+.navbar-nav  .nav-item  .nav-link{
+    color: #40220F;
+    font-weight: 600;
+}
+.navbar-nav  .nav-item  .nav-link:hover{
+    color: #FFFFFF;
+    font-size: medium;
+}
+#ABOUT {
+    background-color: #F1ECD9;
+    margin-top: px;
+}
+
+.carousel-caption {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.row #abouttext  {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    margin-top: 50px;
+    padding-left: 100px;
+    margin-bottom: 50px;
+}
+.row .col-12.col-md-5.col-lg-5 h2 {
+    padding-left: 100px;
+    margin-top: 50px;
+}
+#prducts .row .col-12.col-md-7.col-lg-7 {
+    margin-top: 50px;
+    padding-left: 80px;
+}
+.line2 {
+    background-color: #40220F;
+    height: 30vh;
+    margin-top: 5%;
+    width: 1pt;
+    padding-left: 0px;
+    margin-left: 80px;
+}
+#prducts .row .col-12.col-md-4.col-lg-4 {
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+
+
+
+
+.row #aboutimage {
+    margin-top: 50px;
+    height: 30vh;
+    width: 1vw;
+}
+
+
+.row #abouttext p {
+    padding-top: 20px;
+}
+.row #abouttext h2 {
+    padding-top: 10px;
+}
+.row .col-12.col-sm-12.col-md-6.col-lg-3.animated.fadeInUp.wow p {
+    text-align: center;
+    font-size: 10pt;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.row .col-12.col-sm-12.col-md-6.col-lg-3.animated.fadeInDown.wow p {
+    font-size: 10pt;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+ .row .col-12 h2 {
+    color: #40220F;
+}
+.row .col-12 h5 {
+    color: #40220F;
+    font-weight: 500;
+    letter-spacing: 3pt;
+    margin-top: 20px;
+}
+
+.row .col-12 p {
+    color: #40220F;
+    font-weight: 400;
+    font-style: normal;
+}
+.ingredient {
+    top: 10px;
+    left: 180px;
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.line {
+    width: 30%;
+    height: 1pt;
+    background-color: #40220F;
+    margin-top: 5%;
+	
+}
+#prducts {
+    background-color: #F1ECD9;
+}
+#prducts .row {
+    margin-top: 50px;
+}
+
+#buttom {
+    background-color: #40220F;
+    height: 15vh;
+}
+.row.justify-content-center .col-4 p {
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+#ABOUT2 {
+    background-color: #F1ECD9;
+}
+#ABOUT2 .row #abouttext2 {
+    text-align: center;
+}
+.row #abouttext2 h2 {
+}
+.line3 {
+    background-color: #40220F;
+    width: 30%;
+    height: 1pt;
+    display: inline-block;
+}
+#ABOUT2 .row #abouttext2 {
+    margin-top: 30px;
+}
+.row #abouttext2 p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#prducts2 {
+    background-color: #F1ECD9;
+}
+#prducts2 .row {
+    text-align: center;
+    
+}
+#prducts2 .row #protext {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+#prducts2 .row #protext2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 9pt;
+}
+.row #abouttext2 p {
+    font-size: 9pt;
+}
+#ABOUT2 .row #abouttext2 {
+    margin-bottom: 40px;
+}
+
+
+#ABOUT2 .row #aboutimage2 {
+    margin-top: 30px;
+}
+
+#buttom2 {
+    background-color: #40220F;
+    height: 40vh;
+}
+
+
+.line4 {
+    background-color: #40220F;
+    width: 30%;
+    height: 1pt;
+    margin: 0px auto    
+}
+.row.justify-content-center .col-4 p {
+    font-size: 12pt;
+    text-align: center;
+}
+.logo {
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:768px){
+.ingredient {
+    top: 50px;
+    left: 100px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.row.justify-content-center .col-4 p {
+}
+
+
+}
